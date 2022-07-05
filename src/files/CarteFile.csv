@@ -1,0 +1,4 @@
+idCarte, titlu, idAutor, numeAutor, prenumeAutor, sex, dataNastere, perioada, dataDeces, idEditura, denumireEditura, dataInfiintare, dataPublicareCarte, numeSectiune, idSectiune
+1, Luceafarul, 1, Eminescu, Mihai, M, 13/01/1813, CLASICA, 13/02/1850, 1, Litera, 20/04/2000, 12/12/2005, Poezii, 2
+2, Morometii, 2, Cosbuc, George, F, 12/09/1800, POSTBELICA, 24/03/1861, 2, Paralela, 13/01/2005, 14/03/2003, Fabule, 1
+2, Morometii, 2, Cosbuc, George, F, 12/09/1800, POSTBELICA, 24/03/1861, 3, Paralela, 13/01/2005, 14/03/2003, Fabule, 1
